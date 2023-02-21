@@ -1,4 +1,4 @@
 # cloud_challenge
-Dare IT
+Collecting tasks for Dare IT 2023
 🐧
-Task 1 ;)
+Currently avaiable: Task 1 ;)
