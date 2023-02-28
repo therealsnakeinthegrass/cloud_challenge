@@ -1,9 +1,5 @@
 # cloud_challenge
 
- <style>
-body {background-color: #CCDFFC;}
-</style>
-
 Collecting tasks for Dare IT 2023
 🐧
 
