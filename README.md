@@ -3,6 +3,7 @@ Collecting tasks for Dare IT 2023
 🐧
 Currently available: 
 Task 1 ✅
+
 Task 2 ✅
 Task 3 _
 Task 4 _
