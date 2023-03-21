@@ -1,4 +1,4 @@
-SELECT AVG(age)
+#SELECT AVG(age)
 FROM dareit.students
 
 |avg          |
