@@ -15,7 +15,7 @@ Task 4 _
 
 Task 5 ✅
 
-Task 6 _
+Task 6 dunno, i'm a dummy and can't go that 😔
 
 Task 7 _
 
